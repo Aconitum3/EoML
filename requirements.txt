@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+scipy
+pandas
+matplotlib
+japanize_matplotlib
