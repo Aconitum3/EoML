@@ -13,4 +13,4 @@ docker-compose exec eoml bash
 jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --no-browser
 ``` 
 
-If you want to manage .ipynb files, edit .iginore. 
+If you want to manage .ipynb files, edit .gitiginore. 
