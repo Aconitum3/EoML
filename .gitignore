@@ -2,4 +2,4 @@
 .gitconfig
 *.ipynb
 .DS_Store
-mnt/pyfiles/__pycache__/
+__pycache__
